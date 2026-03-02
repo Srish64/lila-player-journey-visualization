@@ -1,7 +1,7 @@
 # LILA BLACK – Player Journey Visualization Tool
 
 ## Live Demo
-file:///Users/kushilkumar/Downloads/lila_viz_tool.html
+https://srish64.github.io/lila-player-journey-visualization/
 
 ## Overview
 This tool enables Level Designers to visualize player movement, combat hotspots, storm deaths, and map usage patterns across 5 days of production gameplay data.
